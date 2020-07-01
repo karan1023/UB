@@ -1,0 +1,530 @@
+2019-12-06 17:41:45,228 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:41:50,230 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:41:50,230 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:41:50,230 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:41:50,230 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:41:50,230 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:43:11,415 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:43:16,416 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:43:16,416 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:43:16,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:43:16,416 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:43:16,416 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:43:17,238 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 17:43:17,239 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 17:43:17,301 INFO  [Log] UserName Element found 
+2019-12-06 17:43:17,492 INFO  [Log] UserName Element found 
+2019-12-06 17:43:17,571 INFO  [Log] Username entered in the Username text box 
+2019-12-06 17:43:17,596 INFO  [Log] Password Element found 
+2019-12-06 17:43:17,674 INFO  [Log] Password Element found 
+2019-12-06 17:43:17,735 INFO  [Log] Password entered in the Password text box 
+2019-12-06 17:43:17,755 INFO  [Log] Submit Login Element found 
+2019-12-06 17:43:19,349 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 17:43:19,373 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 17:43:19,398 INFO  [Log] Login Sucessfully 
+2019-12-06 17:43:19,563 INFO  [Log] Cdrive More Element found 
+2019-12-06 17:43:20,730 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 17:43:25,941 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:43:28,338 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:43:28,372 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:43:28,481 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:43:28,604 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:43:28,701 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:43:28,792 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:43:30,921 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:43:30,972 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 17:43:32,123 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 17:43:32,157 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 17:43:33,255 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:43:35,776 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:43:35,896 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:43:35,980 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:43:36,054 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:43:36,130 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:43:36,200 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 17:43:36,200 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 17:43:36,200 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 17:43:36,200 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 17:43:36,216 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:43:36,308 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 17:43:39,547 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 17:43:39,622 ERROR [Log] Cdrive RcCasesUploadClick Element not found -->//form[@id='demoUpload'] 
+2019-12-06 17:48:24,085 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:48:29,087 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:48:29,087 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:48:29,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:48:29,087 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:48:29,087 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:48:30,170 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 17:48:30,170 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 17:48:30,224 INFO  [Log] UserName Element found 
+2019-12-06 17:48:30,355 INFO  [Log] UserName Element found 
+2019-12-06 17:48:30,423 INFO  [Log] Username entered in the Username text box 
+2019-12-06 17:48:30,452 INFO  [Log] Password Element found 
+2019-12-06 17:48:30,535 INFO  [Log] Password Element found 
+2019-12-06 17:48:30,604 INFO  [Log] Password entered in the Password text box 
+2019-12-06 17:48:30,628 INFO  [Log] Submit Login Element found 
+2019-12-06 17:48:33,473 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 17:48:33,499 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 17:48:33,519 INFO  [Log] Login Sucessfully 
+2019-12-06 17:48:33,846 INFO  [Log] Cdrive More Element found 
+2019-12-06 17:48:35,019 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 17:48:40,206 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:48:42,621 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:48:42,655 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:48:42,756 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:48:42,875 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:48:42,957 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:48:43,049 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:48:45,173 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:48:45,230 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 17:48:46,421 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 17:48:46,456 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 17:48:47,548 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:48:50,024 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:48:50,125 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:48:50,206 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:48:50,307 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:48:50,381 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:48:50,459 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 17:48:50,459 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 17:48:50,459 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 17:48:50,459 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 17:48:50,474 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:48:50,599 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 17:48:53,920 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 17:48:54,568 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 17:48:56,645 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 17:48:57,007 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:48:59,042 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 17:52:27,425 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:52:32,426 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:52:32,426 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:52:32,426 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:52:32,426 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:52:32,426 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:52:33,294 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 17:52:33,294 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 17:52:33,331 INFO  [Log] UserName Element found 
+2019-12-06 17:52:33,505 INFO  [Log] UserName Element found 
+2019-12-06 17:52:33,617 INFO  [Log] Username entered in the Username text box 
+2019-12-06 17:52:33,641 INFO  [Log] Password Element found 
+2019-12-06 17:52:33,737 INFO  [Log] Password Element found 
+2019-12-06 17:52:33,801 INFO  [Log] Password entered in the Password text box 
+2019-12-06 17:52:33,819 INFO  [Log] Submit Login Element found 
+2019-12-06 17:52:35,420 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 17:52:35,444 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 17:52:35,475 INFO  [Log] Login Sucessfully 
+2019-12-06 17:52:35,717 INFO  [Log] Cdrive More Element found 
+2019-12-06 17:52:36,899 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 17:52:42,108 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:52:44,479 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:52:44,520 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:52:44,629 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:52:44,749 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:52:44,853 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:52:44,940 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:52:47,070 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:52:47,127 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 17:52:48,267 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 17:52:48,304 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 17:52:49,407 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:52:51,928 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:52:52,038 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:52:52,139 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:52:52,210 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:52:52,280 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:52:52,346 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 17:52:52,346 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 17:52:52,346 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 17:52:52,346 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 17:52:52,358 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:52:52,448 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 17:52:55,639 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 17:52:56,410 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 17:52:58,464 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 17:52:58,621 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:53:01,677 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 17:53:04,755 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:53:09,791 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 17:53:11,922 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 17:53:14,023 INFO  [Log] Cdrive RcCasestagImageBankFop Element found 
+2019-12-06 17:53:16,139 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 17:53:19,225 ERROR [Log] Cdrive RcListingReset Element not found -->//a[@id='Reset'] 
+2019-12-06 17:55:49,907 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:55:54,909 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:55:54,909 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:55:54,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:55:54,909 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:55:54,910 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:55:55,535 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 17:55:55,535 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 17:55:55,570 INFO  [Log] UserName Element found 
+2019-12-06 17:55:55,703 INFO  [Log] UserName Element found 
+2019-12-06 17:55:55,786 INFO  [Log] Username entered in the Username text box 
+2019-12-06 17:55:55,814 INFO  [Log] Password Element found 
+2019-12-06 17:55:55,890 INFO  [Log] Password Element found 
+2019-12-06 17:55:55,950 INFO  [Log] Password entered in the Password text box 
+2019-12-06 17:55:55,965 INFO  [Log] Submit Login Element found 
+2019-12-06 17:55:57,594 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 17:55:57,616 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 17:55:57,644 INFO  [Log] Login Sucessfully 
+2019-12-06 17:55:57,826 INFO  [Log] Cdrive More Element found 
+2019-12-06 17:55:58,970 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 17:56:04,207 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:56:06,640 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:56:06,677 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:56:06,786 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:56:06,892 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:56:06,984 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:56:07,070 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:56:09,203 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:56:09,244 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 17:56:10,370 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 17:56:10,427 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 17:56:11,524 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:56:13,997 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:56:14,092 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:56:14,190 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:56:14,273 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:56:14,354 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:56:14,422 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 17:56:14,422 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 17:56:14,422 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 17:56:14,422 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 17:56:14,439 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:56:14,529 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 17:56:17,672 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 17:56:18,427 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 17:56:20,488 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 17:56:20,645 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:56:23,701 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 17:56:26,774 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:56:31,822 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 17:56:33,958 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 17:56:36,036 INFO  [Log] Cdrive RcCasestagImageBankFop Element found 
+2019-12-06 17:56:38,163 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 17:56:41,770 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:56:44,123 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:56:44,236 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:56:44,323 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:56:44,410 INFO  [Log] Cdrive RcCasesSelectSelf Element found 
+2019-12-06 17:56:44,493 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:56:46,569 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:56:46,600 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:56:50,085 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:56:50,186 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:56:50,261 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:56:50,340 INFO  [Log] Cdrive RcCasesSelectInHouse Element found 
+2019-12-06 17:56:50,421 INFO  [Log] Cdrive RcCasesClickRtoWork Element found 
+2019-12-06 17:56:51,494 INFO  [Log] Cdrive RcCasesSelectOwnership Element found 
+2019-12-06 17:56:52,613 INFO  [Log] Cdrive RcCasesSelectTermination Element found 
+2019-12-06 17:56:52,706 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 17:56:52,786 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 17:56:53,899 ERROR [Log] Cdrive RcCasesClickAssignTo Element not found -->//span[contains(text(),'DO User')] 
+2019-12-06 17:58:45,425 INFO  [Log]  Excel sheet opened 
+2019-12-06 17:58:50,425 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:58:50,425 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:58:50,425 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 17:58:50,425 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:58:50,425 INFO  [Log] **************************************************************************************** 
+2019-12-06 17:58:51,412 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 17:58:51,413 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 17:58:51,458 INFO  [Log] UserName Element found 
+2019-12-06 17:58:51,620 INFO  [Log] UserName Element found 
+2019-12-06 17:58:51,741 INFO  [Log] Username entered in the Username text box 
+2019-12-06 17:58:51,766 INFO  [Log] Password Element found 
+2019-12-06 17:58:51,852 INFO  [Log] Password Element found 
+2019-12-06 17:58:51,912 INFO  [Log] Password entered in the Password text box 
+2019-12-06 17:58:51,932 INFO  [Log] Submit Login Element found 
+2019-12-06 17:58:55,094 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 17:58:55,120 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 17:58:55,146 INFO  [Log] Login Sucessfully 
+2019-12-06 17:58:55,353 INFO  [Log] Cdrive More Element found 
+2019-12-06 17:58:56,482 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 17:59:01,696 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:59:04,088 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:59:04,125 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:59:04,229 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:59:04,353 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:59:04,455 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:59:04,541 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:59:06,668 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:59:06,719 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 17:59:07,861 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 17:59:07,914 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 17:59:09,016 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:59:11,526 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:59:11,625 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:59:11,722 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:59:11,799 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 17:59:11,882 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:59:11,946 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 17:59:11,946 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 17:59:11,946 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 17:59:11,946 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 17:59:11,961 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 17:59:12,055 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 17:59:15,343 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 17:59:15,573 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 17:59:17,660 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 17:59:17,791 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:59:20,841 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 17:59:23,920 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 17:59:28,969 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 17:59:31,099 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 17:59:33,189 INFO  [Log] Cdrive RcCasestagImageBankFop Element found 
+2019-12-06 17:59:35,295 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 17:59:38,954 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 17:59:41,319 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 17:59:41,422 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 17:59:41,509 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 17:59:41,608 INFO  [Log] Cdrive RcCasesSelectSelf Element found 
+2019-12-06 17:59:41,688 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 17:59:43,787 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 17:59:43,830 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 17:59:47,326 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 17:59:47,431 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 17:59:47,511 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 17:59:47,599 INFO  [Log] Cdrive RcCasesSelectInHouse Element found 
+2019-12-06 17:59:47,674 INFO  [Log] Cdrive RcCasesClickRtoWork Element found 
+2019-12-06 17:59:48,760 INFO  [Log] Cdrive RcCasesSelectOwnership Element found 
+2019-12-06 17:59:49,866 INFO  [Log] Cdrive RcCasesSelectTermination Element found 
+2019-12-06 17:59:49,958 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 17:59:50,054 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 18:00:21,182 ERROR [Log] Cdrive RcCasesClickAssignTo Element not found -->//span[contains(text(),'DO User')] 
+2019-12-06 18:05:54,719 INFO  [Log]  Excel sheet opened 
+2019-12-06 18:05:59,719 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:05:59,719 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:05:59,719 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 18:05:59,720 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:05:59,720 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:06:00,403 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 18:06:00,403 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 18:06:00,428 INFO  [Log] UserName Element found 
+2019-12-06 18:06:00,543 INFO  [Log] UserName Element found 
+2019-12-06 18:06:00,600 INFO  [Log] Username entered in the Username text box 
+2019-12-06 18:06:00,622 INFO  [Log] Password Element found 
+2019-12-06 18:06:00,732 INFO  [Log] Password Element found 
+2019-12-06 18:06:00,830 INFO  [Log] Password entered in the Password text box 
+2019-12-06 18:06:00,850 INFO  [Log] Submit Login Element found 
+2019-12-06 18:06:02,421 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 18:06:02,449 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 18:06:02,479 INFO  [Log] Login Sucessfully 
+2019-12-06 18:06:02,704 INFO  [Log] Cdrive More Element found 
+2019-12-06 18:06:03,864 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 18:06:09,046 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 18:06:11,446 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:06:11,479 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 18:06:11,590 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 18:06:11,715 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 18:06:11,805 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 18:06:11,906 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 18:06:14,031 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:06:14,066 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 18:06:15,202 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 18:06:15,256 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 18:06:16,331 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 18:06:18,820 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 18:06:18,944 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 18:06:19,021 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 18:06:19,094 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 18:06:19,179 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:06:19,243 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 18:06:19,243 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 18:06:19,243 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 18:06:19,243 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 18:06:19,256 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:06:19,349 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 18:06:22,636 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 18:06:23,262 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:06:25,360 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 18:06:25,502 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:06:28,562 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:06:31,633 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:06:36,686 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:06:38,849 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 18:06:40,952 INFO  [Log] Cdrive RcCasestagImageBankFop Element found 
+2019-12-06 18:06:43,081 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:06:46,719 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 18:06:49,062 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 18:06:49,165 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 18:06:49,252 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 18:06:49,344 INFO  [Log] Cdrive RcCasesSelectSelf Element found 
+2019-12-06 18:06:49,425 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 18:06:51,527 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:06:51,574 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 18:06:55,066 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 18:06:55,167 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 18:06:55,245 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 18:06:55,324 INFO  [Log] Cdrive RcCasesSelectInHouse Element found 
+2019-12-06 18:06:55,396 INFO  [Log] Cdrive RcCasesClickRtoWork Element found 
+2019-12-06 18:06:56,497 INFO  [Log] Cdrive RcCasesSelectOwnership Element found 
+2019-12-06 18:06:57,608 INFO  [Log] Cdrive RcCasesSelectTermination Element found 
+2019-12-06 18:06:57,703 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 18:06:57,795 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 18:06:58,939 INFO  [Log] Cdrive RcCasesClickAssignTo Element found 
+2019-12-06 18:06:59,039 INFO  [Log] Cdrive RcCasesSelectDoUser Element found 
+2019-12-06 18:06:59,161 INFO  [Log] Cdrive RcCasesSelectAssignedOn Element found 
+2019-12-06 18:06:59,249 INFO  [Log] Cdrive RcCasesSelectAssignedOn Element found 
+2019-12-06 18:06:59,430 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:06:59,507 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:06:59,588 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 18:07:03,372 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:07:05,455 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:07:08,512 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:07:11,582 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:07:14,631 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:07:17,732 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:07:20,772 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:07:22,848 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:07:27,900 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:07:30,035 INFO  [Log] Cdrive RcCasesTagForm29 Element found 
+2019-12-06 18:07:32,134 INFO  [Log] Cdrive RcCasesTagForm30 Element found 
+2019-12-06 18:07:34,223 INFO  [Log] Cdrive RcCasesTagRC Element found 
+2019-12-06 18:07:36,313 INFO  [Log] Cdrive RcCasesTagAddProof Element found 
+2019-12-06 18:07:38,406 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:07:42,533 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:07:44,602 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:07:49,645 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:07:51,753 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 18:07:53,876 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:07:57,970 INFO  [Log] Cdrive RcCasesClickMakePayment Element found 
+2019-12-06 18:07:58,480 INFO  [Log] Cdrive RcCasesSelectRtoAgent Element found 
+2019-12-06 18:07:58,576 INFO  [Log] Cdrive RcCasesSelectDoUser Element found 
+2019-12-06 18:07:58,656 ERROR [Log] Cdrive RcCasesSelectCustomer Element not found -->//tr[1]//td[1]//div[1]//label[1]//span[1] 
+2019-12-06 18:19:34,011 INFO  [Log]  Excel sheet opened 
+2019-12-06 18:19:39,013 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:19:39,013 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:19:39,013 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 18:19:39,013 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:19:39,013 INFO  [Log] **************************************************************************************** 
+2019-12-06 18:19:39,776 INFO  [Log] Username picked from Excel is admin 
+2019-12-06 18:19:39,776 INFO  [Log] Password picked from Excel is @dmin@987 
+2019-12-06 18:19:39,811 INFO  [Log] UserName Element found 
+2019-12-06 18:19:39,962 INFO  [Log] UserName Element found 
+2019-12-06 18:19:40,085 INFO  [Log] Username entered in the Username text box 
+2019-12-06 18:19:40,113 INFO  [Log] Password Element found 
+2019-12-06 18:19:40,204 INFO  [Log] Password Element found 
+2019-12-06 18:19:40,266 INFO  [Log] Password entered in the Password text box 
+2019-12-06 18:19:40,284 INFO  [Log] Submit Login Element found 
+2019-12-06 18:19:41,887 INFO  [Log] Click action performed on LOGIN button 
+2019-12-06 18:19:41,916 INFO  [Log] Evaluator Home Page Element found 
+2019-12-06 18:19:41,941 INFO  [Log] Login Sucessfully 
+2019-12-06 18:19:42,125 INFO  [Log] Cdrive More Element found 
+2019-12-06 18:19:43,272 INFO  [Log] Cdrive RcListingClick Element found 
+2019-12-06 18:19:48,491 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 18:19:50,879 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:19:50,929 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 18:19:51,041 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 18:19:51,173 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 18:19:51,278 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 18:19:51,368 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 18:19:53,495 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:19:53,561 INFO  [Log] Cdrive RcCasependingTimeline Element found 
+2019-12-06 18:19:54,697 INFO  [Log] Cdrive RcCaseTimelinePopupvalidation Element found 
+2019-12-06 18:19:54,737 INFO  [Log] Cdrive RcCasePopupCancel Element found 
+2019-12-06 18:19:55,819 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 18:19:58,339 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 18:19:58,437 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 18:19:58,511 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 18:19:58,586 INFO  [Log] Cdrive RcCaseSelectDealer Element found 
+2019-12-06 18:19:58,663 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:19:58,732 INFO  [Log] RTO_Slip_No picked from Excel is RTO81300 
+2019-12-06 18:19:58,732 INFO  [Log] RTO_Slip_No picked from Excel is 2000 
+2019-12-06 18:19:58,732 INFO  [Log] RTO_Slip_No picked from Excel is 50000 
+2019-12-06 18:19:58,732 INFO  [Log] RTO_Slip_No picked from Excel is 813001234 
+2019-12-06 18:19:58,752 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:19:58,847 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 18:20:02,099 INFO  [Log] Cdrive RcCasesTransferedPageValidation Element found 
+2019-12-06 18:20:02,852 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:20:04,919 INFO  [Log] Image Path ========== $$$$$$$$$$C:\Users\Nitesh Kumar\eclipse-workspace\FrameWork\src\testData\Screenshot.png 
+2019-12-06 18:20:05,094 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:20:08,146 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:20:11,220 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:20:16,273 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:20:18,417 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 18:20:20,524 INFO  [Log] Cdrive RcCasestagImageBankFop Element found 
+2019-12-06 18:20:22,653 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:20:26,289 INFO  [Log] Cdrive RcListingReset Element found 
+2019-12-06 18:20:28,685 INFO  [Log] Cdrive RcStatusClick Element found 
+2019-12-06 18:20:28,797 INFO  [Log] Cdrive RcStatusPending Element found 
+2019-12-06 18:20:28,883 INFO  [Log] Cdrive RcCaseTransferdBy Element found 
+2019-12-06 18:20:28,970 INFO  [Log] Cdrive RcCasesSelectSelf Element found 
+2019-12-06 18:20:29,065 INFO  [Log] Cdrive Cdrive_Search Element found 
+2019-12-06 18:20:31,161 INFO  [Log] Cdrive RcCasesTotalCount Element found 
+2019-12-06 18:20:31,194 INFO  [Log] Cdrive RcCaseViewDetailClick Element found 
+2019-12-06 18:20:34,693 INFO  [Log] Cdrive RcCaseViewDetailSelectRCStatus Element found 
+2019-12-06 18:20:34,792 INFO  [Log] Cdrive RcCasesSelectInProcess Element found 
+2019-12-06 18:20:34,884 INFO  [Log] Cdrive RcCasesSelectTransferedBy Element found 
+2019-12-06 18:20:34,975 INFO  [Log] Cdrive RcCasesSelectInHouse Element found 
+2019-12-06 18:20:35,060 INFO  [Log] Cdrive RcCasesClickRtoWork Element found 
+2019-12-06 18:20:36,140 INFO  [Log] Cdrive RcCasesSelectOwnership Element found 
+2019-12-06 18:20:37,221 INFO  [Log] Cdrive RcCasesSelectTermination Element found 
+2019-12-06 18:20:37,310 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 18:20:37,410 INFO  [Log] Cdrive RcCasesInputRtoCharges Element found 
+2019-12-06 18:20:38,545 INFO  [Log] Cdrive RcCasesClickAssignTo Element found 
+2019-12-06 18:20:38,640 INFO  [Log] Cdrive RcCasesSelectDoUser Element found 
+2019-12-06 18:20:38,736 INFO  [Log] Cdrive RcCasesSelectAssignedOn Element found 
+2019-12-06 18:20:38,873 INFO  [Log] Cdrive RcCasesSelectAssignedOn Element found 
+2019-12-06 18:20:39,093 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:20:39,176 INFO  [Log] Cdrive RcCasesRtoSlipNo Element found 
+2019-12-06 18:20:39,269 INFO  [Log] Cdrive RcCasesDetailsSubmit Element found 
+2019-12-06 18:20:43,187 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:20:45,275 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:20:48,329 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:20:51,413 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:20:54,454 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:20:57,554 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:21:00,596 INFO  [Log] Cdrive RcCasesUploadClick2 Element found 
+2019-12-06 18:21:02,675 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:21:07,703 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:21:09,849 INFO  [Log] Cdrive RcCasesTagForm29 Element found 
+2019-12-06 18:21:11,955 INFO  [Log] Cdrive RcCasesTagForm30 Element found 
+2019-12-06 18:21:14,048 INFO  [Log] Cdrive RcCasesTagRC Element found 
+2019-12-06 18:21:16,152 INFO  [Log] Cdrive RcCasesTagAddProof Element found 
+2019-12-06 18:21:18,269 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:21:22,398 INFO  [Log] Cdrive RcCasesUploadClick Element found 
+2019-12-06 18:21:24,485 INFO  [Log] File Is uploaded SucessFully. 
+2019-12-06 18:21:29,539 INFO  [Log] Cdrive RcCasestagImageClick Element found 
+2019-12-06 18:21:31,647 INFO  [Log] Cdrive RcCasestagImageTransfered Element found 
+2019-12-06 18:21:33,787 INFO  [Log] Cdrive RcCasesUploadDocSave Element found 
+2019-12-06 18:21:37,877 INFO  [Log] Cdrive RcCasesClickMakePayment Element found 
+2019-12-06 18:21:38,410 INFO  [Log] Cdrive RcCasesSelectRtoAgent Element found 
+2019-12-06 18:21:38,486 INFO  [Log] Cdrive RcCasesSelectDoUser Element found 
+2019-12-06 18:21:39,124 INFO  [Log] Cdrive RcCasesSelectCustomer Element found 
+2019-12-06 18:21:39,220 INFO  [Log] Cdrive RcCasesSelectPaymentAmount Element found 
+2019-12-06 18:21:39,321 INFO  [Log] Cdrive RcCasesSelectPaymentAmount Element found 
+2019-12-06 18:21:39,370 INFO  [Log] Cdrive RcCasesSelectPaymentAmount Element found 
+2019-12-06 18:21:39,482 INFO  [Log] Cdrive RcCasesClickProcessed Element found 
+2019-12-06 18:21:39,567 INFO  [Log] Cdrive RcCasesSelectPaymentMode Element found 
+2019-12-09 14:54:03,613 INFO  [Log]  Excel sheet opened 
+2019-12-09 14:54:08,615 INFO  [Log] **************************************************************************************** 
+2019-12-09 14:54:08,615 INFO  [Log] **************************************************************************************** 
+2019-12-09 14:54:08,615 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-09 14:54:08,615 INFO  [Log] **************************************************************************************** 
+2019-12-09 14:54:08,615 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:04:09,108 INFO  [Log]  Excel sheet opened 
+2019-12-09 15:04:14,110 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:04:14,110 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:04:14,110 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-09 15:04:14,110 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:04:14,110 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:10:39,952 INFO  [Log]  Excel sheet opened 
+2019-12-09 15:10:44,953 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:10:44,953 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:10:44,953 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-09 15:10:44,953 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:10:44,953 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:16:47,174 INFO  [Log]  Excel sheet opened 
+2019-12-09 15:16:52,175 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:16:52,175 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:16:52,175 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-09 15:16:52,175 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:16:52,175 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:32:21,744 INFO  [Log]  Excel sheet opened 
+2019-12-09 15:32:26,745 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:32:26,745 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:32:26,745 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Cdrive_Employee Listing       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-09 15:32:26,746 INFO  [Log] **************************************************************************************** 
+2019-12-09 15:32:26,746 INFO  [Log] **************************************************************************************** 
