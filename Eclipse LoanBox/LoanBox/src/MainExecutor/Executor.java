@@ -9,6 +9,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
+import UBModule.UBLogin;
 
 public class Executor {
 
@@ -30,6 +31,13 @@ WebDriver driver;
 		driver.get("http://ub-ph.gaadi.com/V1");
 		driver.manage().window().maximize();
 		constant.DataFile();
+		ExcelUtils.setExcelFile(constant.absolute, "Sheet1");
+		Log.info("Excel sheet opened");
+		
+		UBLogin.Execute(driver);
+		//Thread.sleep(500);
+		//driver.quit();
+		
 		
 	}
 	

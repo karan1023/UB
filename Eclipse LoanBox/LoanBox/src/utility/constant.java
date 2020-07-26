@@ -12,7 +12,7 @@ public class constant {
 	public static String report_Path = null;
 		
 	public  static void DataFile() throws Exception{
-		File DataFile = new File("src/testData/testData.xlsx");
+		File DataFile = new File("LoanBox/src/testData/testData.xlsx");
 	    absolute = DataFile.getAbsolutePath();
 	}
 	

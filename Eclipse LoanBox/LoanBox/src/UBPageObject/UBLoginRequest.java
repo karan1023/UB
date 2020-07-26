@@ -10,10 +10,10 @@ import utility.Log;
 import utility.project_elements;
 
 public class UBLoginRequest {
-	
+
 	private static WebElement element = null;
 	//private static List<WebElement> radioButtons = null;
-	
+
 	//**********Find element and return*************
 	public static WebElement getUBUsername(WebDriver driver) throws Exception {
 		try {
@@ -26,7 +26,7 @@ public class UBLoginRequest {
 		Log.info("UB username element found");
 		return element;
 	}
-	
+
 	public static WebElement getUBPassword(WebDriver driver) throws Exception{
 		try {
 			element = driver.findElement(By.xpath(project_elements.UB_Password));
@@ -39,5 +39,17 @@ public class UBLoginRequest {
 		return element;
 	}
 	
+	public static WebElement getUBSubmit(WebDriver driver) throws Exception{
+		try {
+			element = driver.findElement(By.xpath(project_elements.UB_Submit));
+		}
+		catch (Exception e) {
+			Log.error("UB Submit element not found -->"+project_elements.UB_Submit);
+			throw (e);
+		}
+		Log.info("UB Submit element found");
+		return element;
+	}
+
 
 }
